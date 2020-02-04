@@ -38,7 +38,7 @@ describe('searchdetails_tumbs_up_tumbs_down_01.js- Thumbs up and Thumbs down val
 		
 		
 		
-	sreedevi changing code
+	sreedevi changing codees
 		
 		console.log("***********************  searchdetails_tumbs_up_tumbs_down_01.js ***********************************");
 		console.log("***********************  searchdetails_tumbs_up_tumbs_down_02.js ***********************************");

@@ -27,6 +27,19 @@ describe('searchdetails_tumbs_up_tumbs_down_01.js- Thumbs up and Thumbs down val
 
 	});
 	it('Select Column Search Validate thumbsUp and thumbsDown icons', function () {
+		
+		
+		
+		searchResultsAllDataClasses.searchCheckuncheckAll();
+		searchResultsApplication.applicationSearch('customer');
+		
+		
+		
+		
+		
+		
+		
+		
 		console.log("***********************  searchdetails_tumbs_up_tumbs_down_01.js ***********************************");
 		console.log("***********************  searchdetails_tumbs_up_tumbs_down_02.js ***********************************");
 	

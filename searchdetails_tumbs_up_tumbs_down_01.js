@@ -32,6 +32,12 @@ describe('searchdetails_tumbs_up_tumbs_down_01.js- Thumbs up and Thumbs down val
 		console.log("***********************  searchdetails_tumbs_up_tumbs_down_03.js ***********************************");
 		console.log("***********************  searchdetails_tumbs_up_tumbs_down_04.js ***********************************");
 		console.log("***********************  searchdetails_tumbs_up_tumbs_down_05.js ***********************************");
+		console.log("***********************  searchdetails_tumbs_up_tumbs_down_06.js ***********************************");
+		console.log("***********************  searchdetails_tumbs_up_tumbs_down_07.js ***********************************");
+console.log("***********************  searchdetails_tumbs_up_tumbs_down_08.js ***********************************");
+console.log("***********************  searchdetails_tumbs_up_tumbs_down_09.js ***********************************");
+console.log("***********************  searchdetails_tumbs_up_tumbs_down_10.js ***********************************");
+
 
 		searchResultsAllDataClasses.searchCheckuncheckAll();
 		searchResultsApplication.applicationSearch('customer');

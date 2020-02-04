@@ -24,6 +24,10 @@ describe('searchdetails_associated_application_dataproducts_02.js- the data prod
 	// Go to Home Page after tests finish
 	afterAll(function () {
 		globals.gotoHome();
+		globals.gotoHome();
+		globals.gotoHome();
+		globals.gotoHome();
+		globals.gotoHome();
 
 	});
 	browser.ignoreSynchronization = true;
